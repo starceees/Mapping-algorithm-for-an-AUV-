@@ -6,4 +6,6 @@ Mapping Algorithm
 ![alt text](https://github.com/starceees/Mapping-algorithm-for-an-AUV-/blob/main/paper%20img%20files/fullmap.PNG)
 
 Mapped result 
+
+
 ![alt text](https://github.com/starceees/Mapping-algorithm-for-an-AUV-/blob/main/paper%20img%20files/map_exp.png)
